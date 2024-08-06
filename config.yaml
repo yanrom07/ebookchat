@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    spoon:
+      email: rakotomamomjyannicetr@yahoo.fr
+      failed_login_attempts: 0
+      name: Spoon Consulting User
+      password: $2b$12$khYsFKLuk2Wj3/HG5oTCC.NWVwbrQLWakBxqgb3RDSPPWn.o8.fhq
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+
